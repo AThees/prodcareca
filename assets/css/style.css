@@ -115,7 +115,8 @@ body {
 
 .rodape__redes {
     display: flex;
-    width: 80%;
+    width: 30%;
+    justify-content: space-around;
 }
 
 @media screen and (min-width: 769px) {
